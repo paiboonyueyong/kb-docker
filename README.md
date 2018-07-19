@@ -5,7 +5,12 @@
 # Reference
 ### Docker on Window 10 
 (open link in new page with ctrl + click)
-  ------------ | -------------
+  ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/play-button.png)
+Format: ![Alt Text](url)
+
   1. Install Docker | <a href="https://www.youtube.com/watch?v=Q8knrhAZP8E" target="blank">
     <img src='https://github.com/paiboonyueyong/docker/blob/images/play-button.png'/></a>
   2. Getting Started >>  https://www.youtube.com/watch?v=m5t4R-AI4K4&t=49s
