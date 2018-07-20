@@ -5,7 +5,7 @@ Install Docker
 
 Command Disable/Enable Hyper V in Power Shell 
 
-Physical must be enable / VM must be disable
+##Physical must be enable but ##VM must be disable
 
 Hyper V is role service of windows
 
