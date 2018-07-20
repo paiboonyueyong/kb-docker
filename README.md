@@ -2,10 +2,19 @@
 
 Install Docker
 
-Command - Disable/Enable Hyper V in Power Shell (for phisical) 
+
+Command Disable/Enable Hyper V in Power Shell 
+Physical must be enable / VM must be disable
 Hyper V is role service of windows
 
-  >> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V –All
+    Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V –All
+    
+Dowload Link
+
+    https://docs.docker.com/docker-for-windows/release-notes/
+    select Docker Community Edition 17.09.1-ce-win42 2017-12-11 compatible for windows 10 version
+    
+    ![winver](https://drive.google.com/file/d/1cy6h397LvWLc8HsZJASKcGIJEcGkrPgk/view?usp=sharing)
 
 
 
